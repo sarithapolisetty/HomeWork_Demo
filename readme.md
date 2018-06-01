@@ -8,3 +8,14 @@ This repository contains my homework for codecore.
 Clone the project!
 
 
+# Extra Stuff
+
+-Thing
+
+-Food
+
+-Stuff
+
+-Drinks
+
+-Chairs
