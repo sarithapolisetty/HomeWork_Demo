@@ -8,3 +8,12 @@ This repository contains my homework for codecore.
 Clone the project!
 
 
+#License
+
+MIT license
+
+## Author
+
+Saritha
+
+
